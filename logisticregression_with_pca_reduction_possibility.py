@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""LogisticRegression with PCA reduction possibility
+#LogisticRegression with PCA reduction possibility
 
 # creating functions for quick machine learning framework implementation.
 
